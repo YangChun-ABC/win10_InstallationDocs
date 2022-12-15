@@ -20,8 +20,9 @@ ed2k://|file|windows_11_version_22h2_updated_nov_2022_x64_dvd_2c7e96c3.iso|56735
 - ##### 制作PE
 插上U盘，打开刚刚下载的优启通（下载下来的是压缩包，需要先解压），双击打开`EasyU_v3.7.exe`这个应用程序
 ![](https://img1.imgtp.com/2022/12/14/ZadbwsS8.png)
-选择你要制作PE的U盘，点击全新制作
 ![](https://img1.imgtp.com/2022/12/14/ZadbwsS8.png)
+
+选择你要制作PE的U盘，点击全新制作
 ![](https://img1.imgtp.com/2022/12/14/NHkdhxDH.png)
 ![](https://img1.imgtp.com/2022/12/14/R9JaGq2M.png)
 制作完成后，将下载好的系统镜像复制到U盘里面，至此U盘PE已经制作完成
