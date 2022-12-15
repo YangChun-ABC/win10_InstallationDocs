@@ -24,7 +24,6 @@ ed2k://|file|windows_11_version_22h2_updated_nov_2022_x64_dvd_2c7e96c3.iso|56735
 ![](https://img1.imgtp.com/2022/12/14/ZadbwsS8.png)
 ![](https://img1.imgtp.com/2022/12/14/NHkdhxDH.png)
 ![](https://img1.imgtp.com/2022/12/14/R9JaGq2M.png)
-
 制作完成后，将下载好的系统镜像复制到U盘里面，至此U盘PE已经制作完成
 ### 2. PE启动盘制作 
 将制作好的PE U盘插到要安装系统的电脑上，开机等待进入PE系统即可，顺利进入后打开桌面上的DG分区
